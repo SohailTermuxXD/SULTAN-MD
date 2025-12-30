@@ -31,16 +31,13 @@ SOHAIL BALOCH OFFICIAL MOODER
 ---
 
 ## 🚀 Pairing Dashboard
-
 > Securely link your device using the official KHAN-MD pairing portals below: if connection issues may require vpn activation to fix this issue.
-
  <div align="center">
-
 ### 🔥 SHORT SESSION ID
 <p align="center">
-  <a href="https://sultanmd-pair.onrender.com/">
-    <img src="https://img.shields.io/badge/🚀_PAIR_GENRATER_1-FF6B6B?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1e1b4b" alt="Short Session"/>
-  </a>
+  <a href="https://khanmd-pair.onrender.com/">
+    <img src="https://img.shields.io/badge/🚀_PAIR_GENRATER_1-FF6B6B?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1e1b4b" alt="Short Session"/>
+  </a>
 </p>
 
 ### 🌊 LONG SESSION ID
